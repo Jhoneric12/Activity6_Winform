@@ -1,0 +1,9 @@
+C:\Users\Karl\Desktop\C# WinForm\Activity6_Aton\Activity6_Aton\bin\Debug\Activity6_Aton.exe.config
+C:\Users\Karl\Desktop\C# WinForm\Activity6_Aton\Activity6_Aton\bin\Debug\Activity6_Aton.exe
+C:\Users\Karl\Desktop\C# WinForm\Activity6_Aton\Activity6_Aton\bin\Debug\Activity6_Aton.pdb
+C:\Users\Karl\Desktop\C# WinForm\Activity6_Aton\Activity6_Aton\obj\Debug\Activity6_Aton.Form1.resources
+C:\Users\Karl\Desktop\C# WinForm\Activity6_Aton\Activity6_Aton\obj\Debug\Activity6_Aton.Properties.Resources.resources
+C:\Users\Karl\Desktop\C# WinForm\Activity6_Aton\Activity6_Aton\obj\Debug\Activity6_Aton.csproj.GenerateResource.Cache
+C:\Users\Karl\Desktop\C# WinForm\Activity6_Aton\Activity6_Aton\obj\Debug\Activity6_Aton.exe
+C:\Users\Karl\Desktop\C# WinForm\Activity6_Aton\Activity6_Aton\obj\Debug\Activity6_Aton.pdb
+C:\Users\Karl\Desktop\C# WinForm\Activity6_Aton\Activity6_Aton\obj\Debug\Activity6_Aton.csprojResolveAssemblyReference.cache
